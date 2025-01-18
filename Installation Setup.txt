@@ -17,3 +17,5 @@ CMD/TERMINAL : npm init -y
 Install the Express framework, which will help us create the server.
 CMD/TERMINAL : npm install express
 
+#RUN 
+CMD/TERMINAL : node server.js
