@@ -1,0 +1,19 @@
+###Step 1:
+Set Up Your Node.js Environment
+
+#Install Node.js: Make sure you have Node.js installed on your machine. You can download it from nodejs.org.
+
+#Create a New Directory: Create a new directory for your project and navigate into it.
+
+CMD/TERMINAL :
+mkdir Rahasya
+cd Rahasya
+
+#Initialize a New Node.js Project:
+Run the following command to create a package.json file.
+CMD/TERMINAL : npm init -y
+
+#Install Express:
+Install the Express framework, which will help us create the server.
+CMD/TERMINAL : npm install express
+
